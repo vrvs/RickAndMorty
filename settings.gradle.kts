@@ -21,3 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "RickAndMorty"
 include(":app")
+include(":datadomain:character")
+include(":feature:home")
+include(":network")
+include(":feature:base")
+include(":datadomain:base")
